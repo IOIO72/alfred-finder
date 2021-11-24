@@ -10,7 +10,7 @@ The example in the video reminded me of the Windows + E command, which I use on 
 
 I've extended that idea a bit by a quick menu to jump directly into one of the most common folders.
 
-![Go To Finder](./Go To Finder.png)
+![Go To Finder](https://raw.githubusercontent.com/IOIO72/alfred-finder/main/Go%20To%20Finder.png)
 
 ## Setup
 
