@@ -10,6 +10,8 @@ The example in the video reminded me of the Windows + E command, which I use on 
 
 I've extended that idea a bit by a quick menu to jump directly into one of the most common folders.
 
+![Go To Finder](./Go To Finder.png)
+
 ## Setup
 
 To setup your own favorite folders, open the node called `finder` and edit the list.
